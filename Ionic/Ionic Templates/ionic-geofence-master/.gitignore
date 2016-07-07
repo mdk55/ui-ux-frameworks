@@ -1,0 +1,12 @@
+node_modules/
+*.keystore
+*.sw*
+platforms
+plugins
+out
+.idea
+app/components
+.DS_Store
+www/lib
+.io-config.json
+.env
